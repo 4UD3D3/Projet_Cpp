@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Cours ENSIBS/semestre 6/cpp/project/main.cpp
+fstream
+-
+iostream
+-
+vector
+-
+string
+-
+algorithm
+-
+regex
+-
+
